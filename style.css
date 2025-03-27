@@ -11,6 +11,11 @@ body {
     width: 100%;
 }
 
+@font-face {
+    font-family: 'Gilroy';
+    src: url('/Gilroy-Regular.ttf');
+}
+
 body {
     background-color: #222;
     color: #fff;
@@ -188,8 +193,6 @@ footer p {
 
     footer{
         display: none;
-    }
-    
-    
+    } 
     
 }
